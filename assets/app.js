@@ -17,11 +17,11 @@ app.controller('MainCtrl', function ($scope) {
 
 $scope.jobs = [
   job('CaseStack Cloud Services', 'http://casestack.io/', 'Engineering Intern', 'New Product Developement', 'May 2016 - Current', 'Fayetteville, AR'),
-  job('BLKBOXlabs', 'http://blkboxlabs.com/', 'Developer', 'Design Team', 'February 2016 - Current', 'Fayetteville, AR'),
+  job('BLKBOXlabs', 'http://blkboxlabs.com/', 'Developer', 'Design Team', 'February 2016 - July 2016', 'Fayetteville, AR'),
   job('JB Hunt Transport', 'http://www.jbhunt.com/', 'Information Services Intern', 'Intermodal Dev Team', 'April - August 2015', 'Lowell, AR')
 ];
 $scope.facts = [
-  ['Favorite Sport', 'Ultimate frisbee, college basketball, English Premier League football'],
+  ['Favorite Sport', 'Ultimate frisbee, college basketball'],
   ['Languages', 'Java, C++, JavaScript'],
   ['IDE', 'Anything in the <a href="https://www.jetbrains.com/products.html">Jetbrains family of IDEs</a>'],
   ['Class', '<a href="http://uaf46365.ddns.uark.edu/paradigms/">Programming Paradigms</a>'],
