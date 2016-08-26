@@ -61,10 +61,10 @@ $scope.courses = [
     'SUST 1103 Foundations of Sustainability'
   ],
   [
-    'CSCE 4561 Capstone I',
     'CSCE 4753 Computer Networks',
     'CSCE 4523 Database Management',
-    'CSCE 4013 Big Data',
+    'CSCE 4013 Big Data Analytics & Management',
+    'CSCE 4561 Capstone I',
     'MGMT 3933 Entrepreneurship/New Business Development'
   ]
 ];
